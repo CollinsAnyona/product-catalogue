@@ -108,7 +108,7 @@ Swagger UI provides a full interactive documentation of all endpoints.
 
 ## 📹 Demo
 
-A video walkthrough is available in the `/recording` folder of the project.
+A video walkthrough is available in the `/video` folder of the project.
 
 ---
 
